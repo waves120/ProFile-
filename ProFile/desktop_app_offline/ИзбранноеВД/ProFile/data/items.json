@@ -1,0 +1,17 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "user_id": 1,
+      "board_id": 1,
+      "title": "photo_2025-09-11_21-02-29.jpg",
+      "type": "file",
+      "url": null,
+      "tags": null,
+      "path": "C:/Users/Александр/Pictures/photo_2025-09-11_21-02-29.jpg"
+    }
+  ],
+  "_seq": {
+    "items": 2
+  }
+}

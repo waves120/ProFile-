@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "local_user",
+      "password": "local_pw",
+      "token": "local_1"
+    }
+  ],
+  "_seq": {
+    "users": 2
+  }
+}
